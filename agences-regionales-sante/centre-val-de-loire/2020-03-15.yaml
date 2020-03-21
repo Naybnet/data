@@ -1,0 +1,33 @@
+date: 2020-03-15
+source:
+  nom: ARS Centre-Val de Loire
+  url: https://twitter.com/ARS_CVDL/status/1239270329933070336
+donneesRegionales:
+  nom: Centre-Val de Loire
+  code: REG-24
+  casConfirmes: 71
+donneesDepartementales:
+  - nom: Cher
+    code: DEP-18
+    casConfirmes: 5
+    deces: 0
+  - nom: Eure-et-Loir
+    code: DEP-28
+    casConfirmes: 23
+    deces: 0
+  - nom: Indre-et-Loire
+    code: DEP-37
+    casConfirmes: 18
+    deces: 0
+  - nom: Loir-et-Cher
+    code: DEP-41
+    casConfirmes: 2
+    deces: 0
+  - nom: Loiret
+    code: DEP-45
+    casConfirmes: 22
+    deces: 0
+  - nom: Indre
+    code: DEP-36
+    casConfirmes: 1
+    deces: 0
